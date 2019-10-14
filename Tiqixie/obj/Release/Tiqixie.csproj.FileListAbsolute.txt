@@ -1,0 +1,7 @@
+C:\Users\tar24\Desktop\Libraries\GirisKalip\Tiqixie\Tiqixie\bin\Release\Tiqixie.exe
+C:\Users\tar24\Desktop\Libraries\GirisKalip\Tiqixie\Tiqixie\bin\Release\Tiqixie.pdb
+C:\Users\tar24\Desktop\Libraries\GirisKalip\Tiqixie\Tiqixie\obj\Release\Tiqixie.Form1.resources
+C:\Users\tar24\Desktop\Libraries\GirisKalip\Tiqixie\Tiqixie\obj\Release\Tiqixie.Properties.Resources.resources
+C:\Users\tar24\Desktop\Libraries\GirisKalip\Tiqixie\Tiqixie\obj\Release\Tiqixie.csproj.GenerateResource.Cache
+C:\Users\tar24\Desktop\Libraries\GirisKalip\Tiqixie\Tiqixie\obj\Release\Tiqixie.exe
+C:\Users\tar24\Desktop\Libraries\GirisKalip\Tiqixie\Tiqixie\obj\Release\Tiqixie.pdb
